@@ -80,7 +80,26 @@ Using these principles will result in a high quality user experience while effic
 
 #### Project Repository Description
 
-Each project submission must include a README file providing an overview of the web application, instructions to install and start the app, and details the app's overall architecture pattern.. There should also be documentation to describe the expected payload and response for at least one route of the REST API.
+Each project submission must include a README file providing an overview of the web application, instructions to install and start the app, and details the app's overall architecture pattern. There should also be documentation to describe the expected payload and response for at least one route of the REST API.
+
+We've provided some barebones directories to get you started. To start the client:
+```
+cd client
+npm install # or `yarn`
+npm start # or `yarn start`
+```
+
+The client will run on http://localhost:3000. We created this directory using `create-react-app` but if you are not using React, feel free to remove these files and implement a framework of your choice.
+
+To start the server:
+```
+cd server
+npm install # or `yarn`
+npm start # or `yarn start`
+```
+
+The server will run on http://localhost:9000. There are two example routes that have been provided: `/api` and `/api/users`.
+
 
 Screenshots of the app where distinct design decisions were made should also be included. This task assesses the critical competency of communicating and documenting technical concepts.
 
