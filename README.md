@@ -98,7 +98,7 @@ npm install # or `yarn`
 npm start # or `yarn start`
 ```
 
-The server will run on http://localhost:9000. There are two example routes that have been provided: `/api` and `/api/users`.
+The server will run on http://localhost:8080. There are two example routes that have been provided: `/api` and `/api/users`.
 
 
 Screenshots of the app where distinct design decisions were made should also be included. This task assesses the critical competency of communicating and documenting technical concepts.
