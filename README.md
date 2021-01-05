@@ -30,7 +30,7 @@ Consider which of these projects you’d be most excited to work on, not what yo
 
 **Scope your features and functionality to what you can reasonably accomplish by the due date. Your application must include the following architectural requirements:**
 
-- Use a modern JS Library/Framework like React, Angular, etc. We suggest using React.js.
+- Use a modern JS Library/Framework like React, Angular, etc. We suggest using React.js and have included it in the project skeleton.
 - Create an application that can be interacted with in a minimum of three different ways by the user.
 - Use of at least one Service.
 - The usage of a specified architectural pattern (MVC, MVP, MVVM,  etc.)
