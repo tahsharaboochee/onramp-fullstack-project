@@ -15,7 +15,7 @@ You will have seven days to complete this project. We expect those who have a mo
 ### Project Summary:
 - Total time available to complete: 7 days
 - Due date/time: Wednesday, January 13 at 9:00am PT/ 12:00pm ET
-- Expected development time to complete: 24 - 32 hours
+- Expected development time to complete: 30 - 40 hours
 
 
 ## Description and Details 🔎
