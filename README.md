@@ -40,7 +40,7 @@ Consider which of these projects you’d be most excited to work on, not what yo
 
 *Note: you will need to detail where and how your Web App meets these requirements in your repository's [requirements.md](requirements.md) file when you submit your project.*
 
-#### Researching and Plagiarism
+## Researching and Plagiarism
 
 You are actively encouraged to research the web, books, videos, or tutorials for this project. That said, we expect all code that is submitted to be your own (e.g. this project should **NOT** be completed with another person). That means that we expect each candidate to refrain from copying and/or pasting code into the project. If we find copied code in your project, we will have to disqualify you.
 
